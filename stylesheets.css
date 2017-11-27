@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("bg.JPG");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    background-color: black;
+    align: left;
+
+}
+
+p{ font-size: 45px;
+    color: white;
+    align: left;
+    padding: 2px;
+
+
+}
+h1{ align: center;
+    font-size: 50px;
+    color: #000080;
+}
+
+h2{
+    font-size: 50px;
+    color: orange;
+}
+
+.large{
+  font-size: 150px;
+}
+
+table{
+      border-collapse: separate;
+      border-spacing: 40px 40px;
+}
